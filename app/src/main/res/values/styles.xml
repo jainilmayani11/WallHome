@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:statusBarColor">@color/white</item>
+
+        <item name="colorPrimaryDark">@color/white</item>
+
+    </style>
+
+    <style name="PBarTheme">
+        <item name="colorSecondary">@color/dark_green</item>
+    </style>
+
+
+</resources>

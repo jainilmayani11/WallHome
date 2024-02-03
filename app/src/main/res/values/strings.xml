@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WallHome</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="please_wait">Please Wait..</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="version">Version :</string>
+    <string name="_1_0">1.0</string>
+    <string name="developed_by">Developed By :</string>
+    <string name="jainil_mayani">Jainil Mayani</string>
+    <string name="contact_me">Contact Me:</string>
+    <string name="email">Email : jainil.mayani11@gmail.com</string>
+    <string name="mono_7096292390">MoNo : 7096292390</string>
+    <string name="categories">Categories</string>
+    <string name="trendings">Trendings</string>
+    <string name="search_any_image_here">Search Any Image Here</string>
+    <string name="technology">Technology</string>
+    <string name="cars">Cars</string>
+    <string name="nature">Nature</string>
+    <string name="flowers">Flowers</string>
+    <string name="dark">Dark</string>
+    <string name="bikes">Bikes</string>
+    <string name="gods">Gods</string>
+    <string name="todo">TODO</string>
+</resources>
